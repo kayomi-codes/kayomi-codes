@@ -1,5 +1,5 @@
-<h1 align="center">Hi there! I'm Kayomi</h2>
-<h4 align="center">A young programmer aspiring to be a cross-platform developer</h1>
+<h3 align="center">Hi there! I'm Kayomi</h3>
+<p align="center">A young programmer aspiring to be a cross-platform developer</p>
 
 <hr>
 
