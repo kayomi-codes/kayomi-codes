@@ -1,5 +1,5 @@
-<h1 align="center">Hi there! I'm Kayomi</h1>
-<p align="center">A young programmer aspiring to be a full-stack developer</p>
+<h1 align="center">👋🏼 Hi there!</h1>
+<p align="center">I'm Kayomi, a young programmer aspiring to be a full-stack developer</p>
 
 <p align="center">Languages & tools I use:</p>
 <p align="center"> 
