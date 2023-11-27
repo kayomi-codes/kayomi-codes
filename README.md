@@ -1,4 +1,4 @@
-<h3 align="center">Hi there! I'm Kayomi</h3>
+<h1 align="center">Hi there! I'm Kayomi</h1>
 <p align="center">A young programmer aspiring to be a full-stack developer</p>
 
 <hr>
